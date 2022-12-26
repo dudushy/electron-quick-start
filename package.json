@@ -1,0 +1,24 @@
+{
+  "name": "electron-quick-start",
+  "version": "1.0.0",
+  "description": "First experience with Electron Framework.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dudushy/electron-quick-start.git"
+  },
+  "keywords": [
+    "electron",
+    "quick",
+    "start"
+  ],
+  "author": "dudushy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dudushy/electron-quick-start/issues"
+  },
+  "homepage": "https://github.com/dudushy/electron-quick-start#readme"
+}
