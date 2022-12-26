@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/dudushy/electron-quick-start/issues"
   },
-  "homepage": "https://github.com/dudushy/electron-quick-start#readme"
+  "homepage": "https://github.com/dudushy/electron-quick-start#readme",
+  "devDependencies": {
+    "electron": "^22.0.0"
+  }
 }
