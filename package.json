@@ -4,6 +4,7 @@
   "description": "First experience with Electron Framework.",
   "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "node test"
   },
   "repository": {
